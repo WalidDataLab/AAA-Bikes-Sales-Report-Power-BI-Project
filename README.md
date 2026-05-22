@@ -158,7 +158,7 @@ Comparaison visuelle des 4 catégories :
 
 ### Étape 13 — Rapport interactif complet
 
-![Final Dashboard](screenshots/13-final-dashboard.png)
+![Final Dashboard](screenshots/13-final--dashboard.png)
 
 Le rapport final `sealsreport` regroupe sur une seule page :
 - **Titre** stylisé avec fond bleu
