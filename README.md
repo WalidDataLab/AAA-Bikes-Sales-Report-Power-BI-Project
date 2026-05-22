@@ -118,7 +118,7 @@ Prix moyen pondéré par les quantités vendues.
 
 ### Étape 9 — Masquage des colonnes inutilisées
 
-![Hide Columns](screenshots/09-hide-unused-columns.png)
+![Hide Columns](screenshots/09-hide-unused--columns.png)
 
 Masquage des colonnes techniques (CityCode, ProductID, SalesValue brut) dans la vue rapport pour alléger le panneau Data et guider l'utilisateur vers les mesures.
 
